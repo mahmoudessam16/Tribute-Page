@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+main {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eee;
+    margin: 30px 10px;
+    border-radius: 5px;
+}
+
+#title {
+    font-weight: bold;
+    font-size: 40px;
+    padding: 50px 0 0 10px;
+    color: rgb(52, 49, 49);
+}
+
+#man-cap {
+    color: rgb(85, 85, 85);
+}
+
+#img-div {
+    background-color: white;
+    margin: 0 15px;
+}
+
+#img-caption {
+    color: #333;
+    padding-bottom: 20px;
+}
+
+#tribute-info {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+#tribute-info h3 {
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+.menu span {
+    color: #555;
+    font-size: 15px;
+}
+
+#tribute-info ul {
+   text-align: left; 
+}
+
+#tribute-info li {
+    padding: 8px;
+    line-height: 1.5;
+ }
+
+ .italic {
+     text-align: left;
+     position: relative;
+     left: 25px;
+ }
+
+#tribute-info i {
+    color: #555;
+    line-height: 1.5;
+}
+
+.last-text {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 0 25px 0;
+}
+
+#tribute-link {
+    font-size: 19px;
+    opacity: 0.8;
+}
